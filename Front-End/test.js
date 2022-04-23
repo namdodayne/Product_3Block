@@ -11,7 +11,7 @@ const pornhub = {
     asnname: 'REFLECTED, US',
   },
   headers: {
-    date: 'Wed, 16 Feb 2022 14:25:01 GMT',
+    date: 'Wed, 16 Feb 2022 14:25:01 GMT ',
     server: 'openresty',
   },
   port: 443,
@@ -19,7 +19,7 @@ const pornhub = {
   asn: {
     asn: '29789',
     country: 'US',
-    description: 'REFLECTED, US',
+    description: 'REFLECTED, USA',
     name: 'REFLECTED',
   },
   geoip: {
