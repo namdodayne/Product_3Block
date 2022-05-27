@@ -26,7 +26,7 @@
     "mongoose-delete": "^0.5.4",
     "nodemon": "^2.0.15",
     "pm2": "^5.1.2",
-    "puppeteer": "^13.5.2",
+    "puppeteer": "^13.7.0",
     "safe-browse-url-lookup": "^0.1.1",
     "to": "^0.2.9",
     "update": "^0.7.4",
