@@ -24,7 +24,7 @@
     "method-override": "^3.0.0",
     "mongoose": "^6.1.5",
     "mongoose-delete": "^0.5.4",
-    "nodemon": "^2.0.15",
+    "nodemon": "^2.0.22",
     "pm2": "^5.1.2",
     "puppeteer": "^13.5.2",
     "safe-browse-url-lookup": "^0.1.1",
